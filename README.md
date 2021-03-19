@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Nemanja Babic, and I am a robotics software developer based in Montreal, Canada. I have worked with C# for about 2-3 years now! When I don't work with C#, I work with my favorite functional language F# and other scripting languages.
+
 <!--
 **NemanjaBabic/NemanjaBabic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
