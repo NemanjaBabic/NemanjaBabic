@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nemanja Babic, and I am a robotics software developer.
+My name is Nemanja Babic, and I am a software quality engineer.
 
 <!--
 **NemanjaBabic/NemanjaBabic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
